@@ -5,4 +5,4 @@ package com.learning.common
  * @date 4/11/21 12:14 PM
  * @desc
  */
-data class Test(val words: String = "hello, I'm remote 「common」")
+data class Test1(val words: String = "hello, I'm remote 「common」")
